@@ -1,0 +1,184 @@
+source,target,value
+India,South Africa,1
+China,South Africa,3
+Germany,Italy,10
+Italy,Panama,1
+France,Panama,3
+France,Russia,1
+Norway,Russia,5
+Chile,France,2
+Chile,Cuba,6
+Cuba,Russia,5
+Japan,Russia,5
+China,Italy,5
+Cuba,United States,6
+Cuba,India,5
+China,India,11
+France,India,2
+France,Japan,6
+Japan,United States,4
+China,United States,5
+China,Panama,3
+Panama,United Kingdom,3
+Germany,United Kingdom,2
+Germany,Russia,8
+China,Russia,5
+Portugal,Russia,5
+Canada,Portugal,4
+Canada,Finland,6
+Finland,Russia,11
+Denmark,Russia,6
+Denmark,Palestine,4
+Palestine,Russia,1
+Germany,India,2
+Egypt,Italy,4
+Italy,Poland,2
+Costa Rica,Poland,3
+Costa Rica,Guatemala,6
+China,Portugal,4
+China,Japan,9
+Japan,Northern Ireland,3
+Albania,China,4
+Japan,South Africa,9
+Chile,South Africa,3
+Australia,Chile,3
+Australia,Germany,5
+Germany,Japan,7
+France,Germany,12
+Austria,Germany,6
+India,Iran,1
+Ethiopia,India,5
+Germany,Spain,3
+France,Spain,2
+Denmark,Italy,1
+Denmark,Norway,12
+Belgium,Norway,6
+Belgium,France,6
+Denmark,France,6
+Denmark,Mexico,4
+Brazil,Jordan,4
+Jordan,Thailand,5
+Philippines,Thailand,6
+Philippines,South Korea,2
+Israel,Japan,4
+South Africa,Taiwan,3
+South Korea,Taiwan,3
+North Korea,Switzerland,1
+Japan,Switzerland,3
+Iran,Kenya,1
+Cambodia,Iran,5
+France,Pakistan,5
+Pakistan,Switzerland,5
+Brazil,Switzerland,4
+China,France,4
+France,Lebanon,7
+Brazil,China,11
+Brazil,United States,2
+Algeria,China,4
+Algeria,Yemen,5
+Aksai Chin,Yemen,3
+Aksai Chin,Indonesia,4
+Indonesia,Malaysia,12
+Malaysia,Tanzania,5
+Brazil,Tanzania,6
+Brazil,Malawi,5
+Malawi,Malta,6
+China,Malta,3
+Brazil,Indonesia,5
+China,Indonesia,9
+Botswana,Malaysia,6
+Botswana,Lesotho,6
+China,Lesotho,6
+China,Israel,8
+Switzerland,Vietnam,4
+Germany,Switzerland,6
+Germany,Northern Ireland,4
+Italy,Northern Ireland,6
+Italy,South Korea,5
+France,South Korea,4
+France,Libya,1
+Barbados,Egypt,2
+Northern Ireland,Uganda,1
+Bangladesh,Pakistan,6
+Argentina,Tanzania,5
+Argentina,China,4
+China,Lebanon,3
+India,Lebanon,3
+Finland,India,5
+Finland,Portugal,5
+Portugal,Spain,4
+Argentina,Spain,3
+Argentina,South Africa,4
+South Africa,Uganda,5
+Japan,Uganda,3
+Egypt,Israel,6
+Egypt,Uganda,3
+Poland,Uganda,5
+South Korea,Uganda,5
+Iran,South Korea,11
+Canada,Zimbabwe,2
+Canada,Poland,6
+Iran,Poland,8
+Iran,Syria,6
+Brunei,Syria,2
+Brunei,Lebanon,2
+Argentina,Lebanon,6
+Argentina,India,6
+China,Sudan,5
+Brazil,Sudan,2
+Brazil,Iran,6
+Colombia,Iran,4
+Colombia,Philippines,4
+Philippines,Sweden,6
+Libya,Sweden,6
+Libya,Ukraine,6
+Mozambique,Ukraine,4
+Iran,Mozambique,5
+Brazil,South Korea,5
+Chile,Iran,6
+Armenia,Chile,4
+Armenia,Scotland,6
+Japan,Paraguay,5
+Afghanistan,Paraguay,3
+Afghanistan,Iran,4
+Poland,South Africa,3
+Cuba,South Africa,5
+Bahamas,Cuba,6
+Bahamas,Norway,6
+Denmark,Myanmar,5
+Finland,Israel,5
+Mexico,Russia,4
+Colombia,Mexico,6
+Colombia,South Korea,4
+Albania,Mexico,5
+Brazil,Mexico,4
+Bahamas,Brazil,5
+Bahamas,Slovakia,4
+India,Slovakia,4
+Eritrea,India,3
+Brazil,North Korea,5
+China,North Korea,2
+Austria,Israel,5
+Austria,Kazakhstan,4
+Kazakhstan,South Korea,4
+Australia,Austria,5
+Afghanistan,Australia,1
+Afghanistan,Taiwan,5
+Israel,Taiwan,6
+Israel,Lebanon,6
+Lebanon,Peru,5
+China,Peru,3
+China,Egypt,3
+Egypt,United States,6
+Italy,United States,6
+Indonesia,Italy,3
+Indonesia,Kenya,4
+Kenya,Tanzania,6
+Kazakhstan,Tanzania,3
+Kazakhstan,Venezuela,1
+United States,Venezuela,5
+Russia,United States,3
+Lebanon,Russia,4
+Lebanon,United States,2
+France,United States,3
+France,Greece,1
